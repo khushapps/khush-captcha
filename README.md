@@ -11,7 +11,7 @@ Author: Deric Johnson
 Author URI: http://khushapps.com
 License: GPL2
 
-  Copyright 2013  khushapps.com : khushsystems@hushmail.com
+  Copyright 2013  khushapps.com : khushapps@gmail.com
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
